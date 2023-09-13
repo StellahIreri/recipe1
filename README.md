@@ -1,5 +1,6 @@
 Whisk & Whip - Your Go-To Recipe App
 Whisk & Whip is a delightful recipe app designed to simplify your cooking experience. Whether you're a seasoned chef or just getting started in the kitchen, Whisk & Whip has you covered with a wide variety of mouthwatering recipes.
+Backend link is https://github.com/StellahIreri/phase4server
 
 Features
 Recipe Search: Easily search for recipes by name, ingredients, 
