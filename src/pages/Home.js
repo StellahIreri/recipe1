@@ -36,7 +36,7 @@ const Home = () => {
       <div className="search-bar">
         <RecipeSearch onSearch={handleSearch} />
       </div>
-      <h1>Recipes</h1>
+      <h1>Whisk and Whip</h1>
       <div className="recipe-list">
         {filteredRecipes.map((recipe) => (
           <RecipeCard key={recipe.id} recipe={recipe} onDelete={handleRecipeDeleted} />
